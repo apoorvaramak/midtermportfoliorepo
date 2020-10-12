@@ -35,5 +35,10 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   height: 350px;
+  padding: 20px; 
 
+}
+.row
+{
+  display: flex;
 }
