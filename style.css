@@ -34,7 +34,6 @@
   flex direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  float: left;
   height: 350px;
 
 }
