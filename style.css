@@ -1,15 +1,11 @@
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  padding: 10px;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #FFFFFF;
+.overlay
+{
+  display:flex;
+  flex direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  height: 350px;
+  padding: 20px; 
 }
 
 .column:hover .overlay {
@@ -35,7 +31,7 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   height: 350px;
-  padding: 20px; 
+  padding: 20px;
 
 }
 .row
