@@ -5,6 +5,7 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   height: 350px;
+  width:350px;
   padding: 20px;
 }
 
@@ -30,10 +31,13 @@
   flex direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  height: 350px;
   padding-left: 20px;
-  margin-top: 50px; 
-
+  margin-top: 50px;
+}
+.image
+{
+  width: 350px;
+  height: 350px; 
 }
 .row
 {
