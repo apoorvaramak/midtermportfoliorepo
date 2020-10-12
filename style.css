@@ -5,7 +5,7 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   height: 350px;
-  padding: 20px; 
+  padding: 20px;
 }
 
 .column:hover .overlay {
@@ -31,7 +31,8 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   height: 350px;
-  padding: 20px;
+  padding-left: 20px;
+  margin-top: 50px; 
 
 }
 .row
