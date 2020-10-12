@@ -27,12 +27,14 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
- 
+
 .column
 {
   display:flex;
   flex direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly
+  float: left;
+  
 
 }
