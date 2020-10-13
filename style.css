@@ -1,27 +1,18 @@
 .overlay
 {
-  /* position: absolute;
+  position: absolute;
   display:flex;
   flex direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  height: auto;
-  width:350px;
-  /*margin-right: 50px;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #FFFFFF; */
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  padding: 10px;
+  height: 350px;
+  width: auto;
+  /*margin-right: 50px;*/
   opacity: 0;
   transition: .5s ease;
   background-color: #FFFFFF;
+  margin-left: 15px;
+  padding: 25px; 
 }
 
 .column:hover .overlay {
@@ -55,6 +46,7 @@
   height: 350px;
   width: auto;
   padding: 25px;
+  margin-left: 15px;
 }
 .row
 {
