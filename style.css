@@ -62,9 +62,10 @@ body
 }
 .name
 {
+  margin-top: 100px;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 3vw;
-  color: #5F5F5F;
+  color: #FFFFFF;
   position: absolute;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   top: 50%;
@@ -84,6 +85,10 @@ body
   {
     width: auto;
     height: 250px;
+  }
+  .name
+  {
+    margin-top: -50px;
   }
 }
 
