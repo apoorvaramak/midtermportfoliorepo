@@ -35,7 +35,7 @@
   flex direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  /*padding-left: 20px;*/
+  padding-left: 50px;
   margin-top: 50px;
 }
 .image
