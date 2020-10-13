@@ -78,12 +78,12 @@ body
   .image
   {
     width: 50%;
-    height: 250%;
+    height: 50%;
   }
   .overlay
   {
     width: 90%;
-    height: 90%;
+    height: auto;
   }
   .name
   {
@@ -99,7 +99,7 @@ body
   .overlay
   {
     width: 90%;
-    height: 90%;
+    height: auto;
   }
   .image
   {
