@@ -88,7 +88,7 @@ body
   }
   .name
   {
-    margin-top: -250%;
+    margin-top: -260%;
     font-size: 3.5vw;
   }
   .text
@@ -116,7 +116,7 @@ body
   }
   .name
   {
-    margin-top: -350%;
+    margin-top: -500%;
     margin-left: -100px;
     font-size: 6vw;
   }
@@ -126,7 +126,7 @@ body
   }
   .text
   {
-    font-size: 6vw
+    font-size: 12vw
     top: 40%;
   }
 
