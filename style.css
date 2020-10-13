@@ -27,7 +27,7 @@ body
 }
 .name
 {
-  margin-top: 450px;
+  margin-top: -450px;
   margin-left:-50px;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 3vw;
@@ -113,7 +113,7 @@ body
   .name
   {
     margin-top: 100px;
-    margin-left: -100px;
+    margin-left: -800px;
     font-size: 6vw;
   }
   .row
