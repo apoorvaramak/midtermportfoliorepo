@@ -30,7 +30,7 @@ body
   position: absolute;
   display:flex;
   width: auto;
-  height: 90%;
+  height: 75%;
   opacity:0;
   transition: .5s ease;
   background-color: #FFFFFF;
@@ -64,7 +64,7 @@ body
   font-size: 3vw;
   color: #FFFFFF;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
-  top: 50%;
+  /* top: 50%; */
   left: 50%;
   text-align: center;
 }
