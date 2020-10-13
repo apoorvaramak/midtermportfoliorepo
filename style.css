@@ -64,10 +64,9 @@ body
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 3vw;
   color: #FFFFFF;
-  position: absolute;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   top: 50%;
-  left: 40%;
+  left: 50%;
   text-align: center;
 }
 
