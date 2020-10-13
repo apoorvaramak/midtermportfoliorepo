@@ -1,5 +1,6 @@
 .overlay
 {
+  position: absolute; 
   display:flex;
   flex direction: row;
   flex-wrap: wrap;
@@ -7,6 +8,9 @@
   height: 350px;
   width:350px;
   padding: 20px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #FFFFFF;
 }
 
 .column:hover .overlay {
@@ -36,8 +40,8 @@
 }
 .image
 {
-  width: 350px;
-  height: 350px; 
+  height: 350px;
+  width: auto;
 }
 .row
 {
