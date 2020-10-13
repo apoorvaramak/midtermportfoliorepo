@@ -7,8 +7,7 @@
   justify-content: space-evenly;
   height: 350px;
   width:350px;
-  padding-left: 50px;
-  margin-top: 50px; 
+  margin-right: 50px; 
   opacity: 0;
   transition: .5s ease;
   background-color: #FFFFFF;
