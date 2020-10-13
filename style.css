@@ -12,13 +12,13 @@ body
   flex-wrap: wrap;
   justify-content: space-evenly;
   /*padding-left: 100px;*/
-  width: 33%;
+  /* width: 33%; */
   margin-top: 50px;
 }
 .image
 {
   height: 350px;
-  width: auto;
+  width: 350px;
   padding: 25px;
   margin-left: 10px;
 }
