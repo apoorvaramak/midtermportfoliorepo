@@ -1,6 +1,8 @@
 .overlay
 {
   display:flex;
+  width: auto;
+  height: 350px;
 }
 
 .column:hover .overlay {
