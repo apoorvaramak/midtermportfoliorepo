@@ -11,7 +11,7 @@ body
   flex-wrap: wrap;
   justify-content: space-evenly;
   /*padding-left: 100px;*/
-  width: 100%;
+  width: 33.3%;
   margin-top: 50px;
 }
 .image
@@ -21,10 +21,10 @@ body
   padding: 25px;
   margin-left: 10px;
 }
-.row
+/* .row
 {
   display: flex;
-}
+} */
 .overlay
 {
   position: absolute;
@@ -54,4 +54,27 @@ body
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+@media screen and (max-width: 1200px) {
+  .column
+  {
+    width: 100%;
+  }
+  .toptext
+  {
+    font-size: 5vw;
+
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+  .toptext
+  {
+    font-size: 5vw;
+
+  }
 }
