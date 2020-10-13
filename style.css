@@ -3,6 +3,9 @@
   display:flex;
   width: auto;
   height: 350px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #FFFFFF;
 }
 
 .column:hover .overlay {
