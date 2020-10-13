@@ -91,6 +91,10 @@ body
     margin-top: -250px;
     font-size: 3.5vw;
   }
+  .text
+  {
+    font-size: 3.5vw
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -116,6 +120,10 @@ body
   .row
   {
     /* flex-direction: column; */
+  }
+  .text
+  {
+    font-size: 6vw
   }
 
 }
