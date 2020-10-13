@@ -1,10 +1,14 @@
 .overlay
 {
+  position: absolute;
+  display:flex;
   width: auto;
   height: 350px;
   opacity: 0;
   transition: .5s ease;
   background-color: #FFFFFF;
+  padding: 25px;
+  margin-left: 10px;
 }
 
 .column:hover .overlay {
