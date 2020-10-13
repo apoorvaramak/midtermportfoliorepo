@@ -1,3 +1,7 @@
+body
+{
+  background-color: #1D1362;
+}
 .overlay
 {
   position: absolute;
@@ -27,7 +31,7 @@
 
 .column
 {
-  position: relative; 
+  position: relative;
   display:flex;
   flex direction: row;
   flex-wrap: wrap;
