@@ -29,7 +29,7 @@ body
   position: absolute;
   display:flex;
   width: auto;
-  height: 100%;
+  height: 90%;
   opacity:0;
   transition: .5s ease;
   background-color: #FFFFFF;
@@ -77,13 +77,13 @@ body
   }
   .image
   {
-    width: 200px;
-    height: 200px;
+    width: 50%;
+    height: 250%;
   }
   .overlay
   {
-    width: auto;
-    height: 100%;
+    width: 90%;
+    height: 90%;
   }
   .name
   {
@@ -98,13 +98,13 @@ body
   }
   .overlay
   {
-    width: auto;
-    height: 100%;
+    width: 90%;
+    height: 90%;
   }
   .image
   {
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: 100%;
   }
   .name
   {
