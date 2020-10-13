@@ -85,7 +85,7 @@ body
   .overlay
   {
     width: auto;
-    height: 200px;
+    height: 100%;
   }
   .name
   {
@@ -101,7 +101,7 @@ body
   .overlay
   {
     width: auto;
-    height: 100px;
+    height: 100%;
   }
   .image
   {
