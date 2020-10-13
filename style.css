@@ -83,7 +83,7 @@ body
   .overlay
   {
     width: auto;
-    height: 250px;
+    height: 100%;
   }
   .name
   {
@@ -99,7 +99,7 @@ body
   .overlay
   {
     width: auto;
-    height: 150px;
+    height: 100%;
   }
   .name
   {
