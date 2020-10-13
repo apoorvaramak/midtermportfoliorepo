@@ -7,7 +7,6 @@
   transition: .5s ease;
   background-color: #FFFFFF;
   padding: 25px;
-  margin-left: 10px;
 }
 
 .column:hover .overlay {
