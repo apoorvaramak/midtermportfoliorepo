@@ -61,7 +61,7 @@ body
 }
 .name
 {
-  margin-top: 150px;
+  margin-top: 200px;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 3vw;
   color: #FFFFFF;
@@ -87,7 +87,7 @@ body
   }
   .name
   {
-    margin-top: -100px;
+    margin-top: -200px;
     font-size: 2.5vw;
   }
 }
@@ -103,7 +103,7 @@ body
   }
   .name
   {
-    margin-top: -100px;
+    margin-top: -200px;
     font-size: 2.5vw;
   }
   .row
