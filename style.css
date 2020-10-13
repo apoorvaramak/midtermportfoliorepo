@@ -25,13 +25,23 @@ body
   display: flex;
   flex-wrap: wrap;
 }
+.name
+{
+  margin-top: 450px;
+  margin-left:-50px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 3vw;
+  color: #FFFFFF;
+  left: 50%;
+  text-align: center;
+}
 
 .overlay
 {
   position: absolute;
   display:flex;
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 350px;
   opacity:0;
   transition: .5s ease;
   background-color: #FFFFFF;
@@ -56,16 +66,6 @@ body
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  text-align: center;
-}
-.name
-{
-  margin-top: -450px;
-  margin-left:-50px;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-  font-size: 3vw;
-  color: #FFFFFF;
-  left: 50%;
   text-align: center;
 }
 
