@@ -59,6 +59,7 @@ body
 }
 .name
 {
+  margin-top: -185px;
   margin-left:-50px;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 3vw;
@@ -81,7 +82,7 @@ body
   }
   .overlay
   {
-    width: 75%;
+    width: 100%;
     height: auto;
   }
   .name
@@ -97,7 +98,7 @@ body
   }
   .overlay
   {
-    width: 75%;
+    width: 100%;
     height: auto;
   }
   .image
