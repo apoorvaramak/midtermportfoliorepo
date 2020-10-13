@@ -11,7 +11,7 @@ body
   flex-wrap: wrap;
   justify-content: space-evenly;
   /*padding-left: 100px;*/
-  width: 33.3%;
+  width: 33%;
   margin-top: 50px;
 }
 .image
@@ -28,6 +28,7 @@ body
 .overlay
 {
   position: absolute;
+  display:flex;
   width: 350px;
   height: 350px;
   opacity:0;
