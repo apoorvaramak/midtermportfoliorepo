@@ -41,8 +41,9 @@
 }
 .image
 {
-  height: auto;
-  width: 350px;
+  height: 350px;
+  width: auto;
+  padding: 25px; 
 }
 .row
 {
