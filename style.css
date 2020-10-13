@@ -5,7 +5,7 @@
   flex direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  height: 350px;
+  height: auto;
   width:350px;
   /*margin-right: 50px;*/
   opacity: 0;
