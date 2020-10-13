@@ -44,7 +44,7 @@ body
   height: 350px;
   opacity:0;
   transition: .5s ease;
-  background-color: #FFFFFF;
+  background-color: #1D1362;
   padding: 25px;
   margin-left: 10px;
   top:0;
@@ -57,7 +57,7 @@ body
   opacity: .90;
 }
 .text {
-  color: #5F5F5F;
+  color: #FFFFFF;
   font-size: 2vw;
   position: absolute;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
