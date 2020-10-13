@@ -41,7 +41,7 @@
 }
 .image
 {
-  height: 350px;
+  height: auto;
   width: 350px;
 }
 .row
