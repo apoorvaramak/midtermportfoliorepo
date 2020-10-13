@@ -40,8 +40,8 @@ body
 {
   position: absolute;
   display:flex;
-  width: 350px;
-  height: 350px;
+  width: 100%;
+  height: 100%;
   opacity:0;
   transition: .5s ease;
   background-color: #1D1362;
@@ -82,8 +82,6 @@ body
   .overlay
   {
     margin-top: 20px;
-    width: 100%;
-    height: auto;
   }
   .name
   {
@@ -102,8 +100,6 @@ body
   }
   .overlay
   {
-    width: 100%;
-    height: auto;
     margin-top: 20px;
   }
   .image
