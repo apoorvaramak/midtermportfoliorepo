@@ -1,6 +1,6 @@
 .overlay
 {
-  display:flex; 
+  display:flex;
 }
 
 .column:hover .overlay {
@@ -34,7 +34,7 @@
   height: 350px;
   width: auto;
   padding: 25px;
-  margin-left: 15px;
+  margin-left: 10px;
 }
 .row
 {
