@@ -26,6 +26,24 @@
     align-items: center;
 }
 
+a:link {
+    color: #194daf;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #194daf;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(214, 154, 230);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
 button {
     background-color: #1D1362;
     border: none;
@@ -40,4 +58,4 @@ button {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 1.2vw; 
     border-radius: 8px; 
-  }
+}
