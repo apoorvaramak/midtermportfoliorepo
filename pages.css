@@ -1,0 +1,26 @@
+.text {
+  /* display: inline-block; */
+  font-size: 1.5vw;
+  /* float: right; */
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  /* transform: translate(-50%, -50%); */
+  /* text-align: center; */
+  margin: 2%; 
+  
+}
+
+.image-container {
+    padding: 2%;
+
+}
+
+.image {
+    width: 40vw; 
+    height: 40vw;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
