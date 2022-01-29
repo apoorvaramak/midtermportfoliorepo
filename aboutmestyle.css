@@ -6,6 +6,7 @@
     /* transform: translate(-50%, -50%); */
     /* text-align: center; */
     margin: 2%; 
+    color: #1D1362;
     
   }
   
@@ -44,4 +45,22 @@
   li{
     justify-content: space-evenly;
     display: inline;
+  }
+
+  a:link {
+    color: #1D1362;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #1D1362;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(214, 154, 230);
+    background-color: transparent;
+    text-decoration: underline;
   }

@@ -73,6 +73,24 @@ body
   text-align: center;
 }
 
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightgrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(214, 154, 230);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 1200px) {
   .column
   {
